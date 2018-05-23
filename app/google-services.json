@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "550881406959",
+    "firebase_url": "https://llamadasvicente.firebaseio.com",
+    "project_id": "llamadasvicente",
+    "storage_bucket": "llamadasvicente.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550881406959:android:14e5deea685f96ec",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.tam_provedorllamadas_vicentemz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550881406959-ke8nktinsf8h2skdirtoi29jig2f9hvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqfnaZgBBCKrz5SFfEyVh14TChC3Mjr4E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
